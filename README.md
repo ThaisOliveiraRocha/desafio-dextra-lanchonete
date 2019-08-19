@@ -1,5 +1,7 @@
 # desafio-dextra-lanchonete
 
+- Fazer download do repositório
+
 - Passos para executar o back-end (Java)
   - Possuir mongoDB instalado
   - Utilize o editor de sua preferência para executar o projeto
